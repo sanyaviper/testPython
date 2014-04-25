@@ -1,0 +1,1 @@
+aler("main.js");
